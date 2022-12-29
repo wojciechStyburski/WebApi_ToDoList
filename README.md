@@ -1,1 +1,2 @@
-# WebApi_ToDoList
+# WebApi ToDoList
+Aplikacja ToDoList to narzędzie, które umożliwia użytkownikom tworzenie i zarządzanie listą zadań do wykonania. Dzięki niej użytkownicy mogą tworzyć zadania z opisem, ustalać termin wykonania i oznaczać zadania jako wykonane. Aplikacja ToDoList jest szczególnie przydatna dla osób, które chcą lepiej zarządzać swoimi obowiązkami i uniknąć zapominania o ważnych sprawach do załatwienia. System oferuje tworzenie listy zadań zarówno dla obowiązków zawodowych, jak i osobistych, co pozwala na lepsze zarządzanie swoim czasem i zasobami. 
